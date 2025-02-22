@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I’m currently ...<br>
+Student / The Open University of Japan<br>
+Interest / Unity c# html<br>
 <!--
 **jun27tsuru/jun27tsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
